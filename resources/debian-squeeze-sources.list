@@ -1,0 +1,11 @@
+deb http://debian.cam.xci-test.com:3142/debian/ squeeze main non-free
+deb-src http://debian.cam.xci-test.com:3142/debian/ squeeze main non-free
+
+deb http://debian.cam.xci-test.com:3142/debian-security/ squeeze/updates main non-free
+deb-src http://debian.cam.xci-test.com:3142/debian-security/ squeeze/updates main non-free
+
+#deb http://volatile.debian.org/debian-volatile squeeze/volatile main non-free
+#deb-src http://volatile.debian.org/debian-volatile squeeze/volatile main non-free
+
+deb http://www.cam.xci-test.com/xc_dist/linux/debian squeeze main
+

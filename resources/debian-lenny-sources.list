@@ -1,0 +1,11 @@
+deb http://debian.cam.xci-test.com:3142/debian/ lenny main non-free
+deb-src http://debian.cam.xci-test.com:3142/debian/ lenny main non-free
+
+deb http://debian.cam.xci-test.com:3142/debian-security/ lenny/updates main non-free
+deb-src http://debian.cam.xci-test.com:3142/debian-security/ lenny/updates main non-free
+
+#deb http://volatile.debian.org/debian-volatile lenny/volatile main non-free
+#deb-src http://volatile.debian.org/debian-volatile lenny/volatile main non-free
+
+deb http://www.cam.xci-test.com/xc_dist/linux/debian lenny main
+
